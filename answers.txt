@@ -1,4 +1,4 @@
-• What is a gitignore file and what should it include for a Java project?
+• What is a gitignore file and what should it include for a Java project?   
 	It is a file that can hold files which Git doesn't track. 
 	The files are not needed for the project or those that represent system configs. 
 
